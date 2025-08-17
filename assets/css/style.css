@@ -225,7 +225,7 @@ section {
   transition: color 0.3s ease;
 }
 .project-card:hover h3 {
-  color: #ff6f61; /* accent color */
+  color: #ff6f61; 
 }
 
 /* Skills Cards */
